@@ -11,12 +11,13 @@
 - 授業で扱ったHTML,css,JavaScript
 - 夏休みまでで作成した個人開発のプログラム
 
-### 📝2026 夏休み集中復習ログ（コピペ用：|  |  |  | <a href="">link</a> |  |<br>）
-| 日付 | 言語/分野 | テーマ | リンク | 達成度 / メモ |<br>
+### 📝2026 夏休み集中復習ログ（コピペ用：|  |  |  | <a href="">link</a> |<br>）
+| 日付 | 言語/分野 | テーマ | リンク |<br>
 | 7/31 | markdown | README | - | コード練習のやり方の方針確定 |<br>
-| 7/31 | Python | 計算の復習 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_01">link<a> | 累積代入の有効な使い方に気づいた |<br>
-| 8/3 | Python | 表示の基本ルールとリストの基礎 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_02">link</a> | 忘れていた基礎中の基礎を思い出せた |<br>
-| 8/6 | Python | リストと金額計算 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_01">link</a> |  |<br>
+| 7/31 | Python | 計算の復習 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_01">link<a> |<br>
+| 8/3 | Python | 表示の基本ルールとリストの基礎 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_02">link</a> |<br>
+| 8/6 | Python | リストと金額計算 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_01">link</a> |<br>
+| 8/7 | Python | if文 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_02">link</a> |<br>
 
 ### 📂 ディレクトリ構成
 - [`python-course/`](./python-course/): Pythonの基礎・データ構造・ファイル操作<br>
