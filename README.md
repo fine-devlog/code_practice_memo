@@ -22,3 +22,4 @@
 ### 📂 ディレクトリ構成
 - [`python-course/`](./python-course/): Pythonの基礎・データ構造・ファイル操作<br>
 - [`web-course/`](./web-course/): HTML/CSS/JavaScriptのUI・DOM操作<br>
+- [`my-projects/`](./my-projects/): Python(Streamlit/pandas/supabase)/データ分析・UI・データ保存・セキュリティ対策<br>
