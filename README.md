@@ -20,6 +20,7 @@
 | 8/7 | Python | if文 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_02">link</a> |<br>
 | 8/8 | Python | if文　応用編 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/03_01">link</a> |<br>
 | 8/9 | Python | for文の利用 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/03_02">link</a> |<br>
+| 8/10 | Python | 関数定義その１ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/04_01">link</a> |<br>
 
 ### 📂 ディレクトリ構成
 - [`python-course/`](./python-course/): Pythonの基礎・データ構造・ファイル操作<br>
