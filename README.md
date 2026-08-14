@@ -22,6 +22,7 @@
 | 8/9 | Python | for文の利用 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/03_02">link</a> |<br>
 | 8/10 | Python | 関数定義その１ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/04_01">link</a> |<br>
 | 8/13 | Python | 関数定義その２ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/04_02">link</a> |<br>
+| 8/14 | Python | 関数定義その３ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/05_01">link</a> |<br>
 
 ### 📂 ディレクトリ構成
 - [`python-course/`](./python-course/): Pythonの基礎・データ構造・ファイル操作<br>
