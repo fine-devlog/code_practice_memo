@@ -11,18 +11,19 @@
 - 授業で扱ったHTML,css,JavaScript
 - 夏休みまでで作成した個人開発のプログラム
 
-### 📝2026 夏休み集中復習ログ（コピペ用：|  |  |  | <a href="">link</a> |<br>）
+### 📝2026 夏休み集中復習ログ（コピペ用：|  |  |  |  | <a href="">link</a> |<br>）
 | 日付 | 言語/分野 | テーマ | リンク |<br>
 | 7/31 | markdown | README | - | コード練習のやり方の方針確定 |<br>
-| 7/31 | Python | 計算の復習 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_01">link<a> |<br>
-| 8/3 | Python | 表示の基本ルールとリストの基礎 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_02">link</a> |<br>
-| 8/6 | Python | リストと金額計算 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_01">link</a> |<br>
-| 8/7 | Python | if文　基礎編 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_02">link</a> |<br>
-| 8/8 | Python | if文　応用編 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/03_01">link</a> |<br>
-| 8/9 | Python | for文の利用 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/03_02">link</a> |<br>
-| 8/10 | Python | 関数定義その１ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/04_01">link</a> |<br>
-| 8/13 | Python | 関数定義その２ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/04_02">link</a> |<br>
-| 8/14 | Python | 関数定義その３ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/05_01">link</a> |<br>
+| 7/31 | Python | 01_01 | 計算の復習 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_01">link<a> |<br>
+| 8/3 | Python | 01_02 | 表示の基本ルールとリストの基礎 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/01_02">link</a> |<br>
+| 8/6 | Python | 02_01 | リストと金額計算 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_01">link</a> |<br>
+| 8/7 | Python | 02_02 | if文　基礎編 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/02_02">link</a> |<br>
+| 8/8 | Python | 03_01 | if文　応用編 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/03_01">link</a> |<br>
+| 8/9 | Python | 03_02 | for文の利用 | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/03_02">link</a> |<br>
+| 8/10 | Python | 04_01 | 関数定義その１ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/04_01">link</a> |<br>
+| 8/13 | Python | 04_02 | 関数定義その２ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/04_02">link</a> |<br>
+| 8/14 | Python | 05_01 | 関数定義その３ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/05_01">link</a> |<br>
+| 8/15 | Python | 05_02 | 関数定義その４ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/05_02">link</a> |<br>
 
 ### 📂 ディレクトリ構成
 - [`python-course/`](./python-course/): Pythonの基礎・データ構造・ファイル操作<br>
