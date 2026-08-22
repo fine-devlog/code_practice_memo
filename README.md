@@ -25,6 +25,7 @@
 | 8/14 | Python | 05_01 | 関数定義その３ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/05_01">link</a> |<br>
 | 8/15 | Python | 05_02 | 関数定義その４ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/05_02">link</a> |<br>
 | 8/17 | Python | 06_01 | 関数定義その５ | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/06_01">link</a> |<br>
+| 8/22 | Python | 06-02 | mathモジュール | <a href="https://github.com/fine-devlog/code_practice_memo/tree/main/python-course/06_02">link</a> |<br>
 
 ### 📂 ディレクトリ構成
 - [`python-course/`](./python-course/): Pythonの基礎・データ構造・ファイル操作<br>
